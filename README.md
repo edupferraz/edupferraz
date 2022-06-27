@@ -14,7 +14,7 @@ Learning is the way and the goal!
 <br/> 
 
 <div align="center">
-  <a href="https://github.com/johnncaastro">
+  <a href="https://github.com/edupferraz">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edupferraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edupferraz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
