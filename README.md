@@ -1,6 +1,6 @@
 # Hi, I'm Eduardo Ferraz
 
-I'm studying React on Rocketseat's Ignite program 🚀
+I'm studying React on Rocketseat's Ignite program 🚀🚀
 
 Learning is the way and the goal!
 
