@@ -2,7 +2,7 @@
 
 I'm studying React on Rocketseat's Ignite program 🚀🚀
 
-Learning is the way and the goal!
+Growth or death
 
 Professional in creating bugs.
 
