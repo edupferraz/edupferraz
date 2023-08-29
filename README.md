@@ -1,10 +1,10 @@
 # Hi, I'm Eduardo Ferraz
 
-I'm studying React on Rocketseat's Ignite program 🚀🚀
+I'm studying Systems Analysis and Development at the Federal Institute of Santa Catarina 🚀🚀
 
-Growth or death
+Growth or Death mentality 🧠
 
-Professional in creating bugs.
+In my spare time I'm a professional at creating bugs 😆 
 
 <div>
   <a href="https://www.instagram.com/edup.ferraz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
