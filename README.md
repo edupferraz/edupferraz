@@ -1,14 +1,11 @@
 # Hi, I'm Eduardo Ferraz
 
-I'm studying Systems Analysis and Development at the Federal Institute of Santa Catarina 🚀🚀
+I'm studying Systems Analysis and Development at the Federal Institute of Santa Catarina 🚀
 
 Growth or Death mentality 🧠
 
-In my spare time I'm a professional at creating bugs 😆 
-
 <div>
-  <a href="https://www.instagram.com/edup.ferraz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/edupferraz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/edupferraz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:edupferraz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
